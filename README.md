@@ -15,3 +15,7 @@ adafruit GA1A12S202 Log-scale Analog Light Sensor
 
 
 Unfortunately the LEDs that adafruit uses for these matrices stop working at moderately high temperatures. Individual LEDs would stop working until they cooled down.
+
+
+
+![pic](https://github.com/illiteratebeef/GPS-DotMatrix-HUD/blob/main/GPS%20HUD.jpg?raw=true)
